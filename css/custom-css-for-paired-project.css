@@ -1,5 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Montserrat&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Abel&family=Anton&family=Montserrat&display=swap');
 * {
+ background-color: #F0F0F0;
+}
+.thingone {
+    background-color: #e6563b;
+}
 
+.thingtwo {
+    background-color: #eb9d3a;
+}
+
+.thingthree {
+    background-color: #7cb06c;
+}
+
+.thingfour {
+    background-color: #00aba9;
 }
