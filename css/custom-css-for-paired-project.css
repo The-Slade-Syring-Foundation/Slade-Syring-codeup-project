@@ -1,20 +1,56 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Montserrat&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Abel&family=Anton&family=Montserrat&display=swap');
-* {
+body {
  background-color: #F0F0F0;
 }
 .thingone {
     background-color: #e6563b;
+    height: 105px;
+    width: 105px;
 }
 
 .thingtwo {
     background-color: #eb9d3a;
+    height: 105px;
+    width: 105px;
 }
 
 .thingthree {
     background-color: #7cb06c;
+    height: 105px;
+    width: 105px;
 }
 
 .thingfour {
     background-color: #00aba9;
+    height: 105px;
+    width: 105px;
+}
+.badge1{
+    background-color: #e6563b;
+    height: 18px;
+    width: 18px;
+}
+.badge2{
+    background-color: #eb9d3a;
+    height: 18px;
+    width: 18px;
+}
+.badge3{
+    background-color: #7cb06c;
+    height: 18px;
+    width: 18px;
+}
+.badge4{
+    background-color: #00aba9;
+    height: 18px;
+    width: 18px;
+}
+a {
+    text-decoration: none;
+
+}
+.bgAlt {
+    background-color: #F0F0F0;
+
 }
