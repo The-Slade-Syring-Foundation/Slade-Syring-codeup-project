@@ -3,11 +3,33 @@
 body {
  background-color: #F0F0F0;
 }
+.nav-item{
+    font-family: Abel;
+}
+
+.title{
+    font-size: x-large;
+}
+
+.links {
+    font-size: small;
+}
+
 .headerfont{
     font-family: Anton;
 }
 h1{
-    font-size: 2.5em;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+p{
+    font-size: x-small;
+}
+
+h5{
+    font-size: small;
+    font-family: Abel;
 }
 .thingone {
     background-color: #e6563b;
