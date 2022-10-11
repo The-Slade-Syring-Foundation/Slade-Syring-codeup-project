@@ -19,12 +19,24 @@ body {
     font-family: Anton;
 }
 h1{
+    font-size: 3.5rem;
+    font-weight: bolder;
+    font-family: Anton;
+}
+h2{
+    font-size: 1.5rem;
+    font-family: Anton;
+}
+.rounded-circle{
+    font-family: Anton;
+}
+h3{
     font-size: xx-large;
     font-weight: bolder;
+    font-family: Anton;
 }
-
 p{
-    font-size: x-small;
+    font-size: small;
 }
 
 h5{
@@ -90,4 +102,7 @@ a {
 .card>img{
     width: 100%;
     height: 25rem;
+}
+.lasttext{
+    font-family: Abel;
 }
