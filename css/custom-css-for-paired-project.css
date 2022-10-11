@@ -3,6 +3,12 @@
 body {
  background-color: #F0F0F0;
 }
+.headerfont{
+    font-family: Anton;
+}
+h1{
+    font-size: 2.5em;
+}
 .thingone {
     background-color: #e6563b;
     height: 105px;
