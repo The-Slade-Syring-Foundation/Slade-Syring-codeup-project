@@ -23,12 +23,17 @@ h1{
     font-weight: bolder;
     font-family: Anton;
 }
+
+
 h2{
     font-size: 1.5rem;
     font-family: Anton;
 }
 .rounded-circle{
     font-family: Anton;
+    font-size: small;
+    height: 90px;
+    width: 90px;
 }
 h3{
     font-size: xx-large;
@@ -40,7 +45,7 @@ p{
 }
 
 h5{
-    font-size: small;
+    font-size: x-small;
     font-family: Abel;
 }
 
@@ -50,26 +55,19 @@ h5{
 
 .thingone {
     background-color: #e6563b;
-    height: 105px;
-    width: 105px;
 }
 
 .thingtwo {
     background-color: #eb9d3a;
-    height: 105px;
-    width: 105px;
 }
 
 .thingthree {
     background-color: #7cb06c;
-    height: 105px;
-    width: 105px;
+
 }
 
 .thingfour {
     background-color: #00aba9;
-    height: 105px;
-    width: 105px;
 }
 .badge1{
     background-color: #e6563b;
@@ -102,4 +100,9 @@ a {
 
 .lasttext{
     font-family: Abel;
+}
+
+.rounded {
+    width: 75px;
+    height: 75px;
 }
